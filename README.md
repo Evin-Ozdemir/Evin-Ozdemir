@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evin-Ozdemir, I’m interested in Full-stack developer with experience building scalable web applications.Passionate about clean code and software architecture.
 - 🌱 I’m currently focusing on Flutter,React, React Native, JavaScript and Node.js Technologies.
-- - ✨ I am someone who always loves to learn new tools and improve.
+- ✨ I am someone who always loves to learn new tools and improve.
 - 📫 How to reach me evinozdemir20@gmail.com
 
 
