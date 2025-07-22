@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Welcome to my portfolio!</h1>
-<h3 align="center">React-Frontend Developer | React - Native Developer | Mobile Developer | Backend Developer | Software Engineer</h3>
+<h3 align="center">React-Frontend Developer | React - Native Developer | Mobile Developer | Backend Developer | Computer Engineer</h3>
 <hr>
 <h3>💬 Ask me about ?</h3>
 <ul>
